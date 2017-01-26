@@ -21,12 +21,12 @@
         "font" : "System Light",
         "color" : "#000000FF"
       },
-      "iconPaddingHorizontal" : 4,
-      "paddingVertical" : 3,
-      "iconSize" : 40
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 4,
+      "iconSize" : 38
     },
     "search" : {
-      "paddingVertical" : 4,
+      "paddingVertical" : 10,
       "background" : "#00000000",
       "spacing" : 8,
       "text" : {
@@ -39,13 +39,13 @@
     },
     "window" : {
       "color" : "#FDFBFFFF",
-      "paddingHorizontal" : 9,
+      "paddingHorizontal" : 10,
       "width" : 560,
       "borderPadding" : 0,
       "borderColor" : "#FEFFFFFF",
       "blur" : 0,
       "roundness" : 4,
-      "paddingVertical" : 8
+      "paddingVertical" : 10
     },
     "credit" : "skrzyszewski.com",
     "separator" : {
